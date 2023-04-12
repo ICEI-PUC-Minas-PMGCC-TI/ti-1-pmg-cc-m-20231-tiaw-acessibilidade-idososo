@@ -3,13 +3,17 @@
 
 IdoS.O.S
 
-`CURSOS`
+`CURSO` 
 
-Ciencias da Computação - Puc Minas Coreu
+
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+os membros do grupo sao:
+-Lucas Alkmim Barros
+-Daniela Santos Nacur
+-Livia Camara Xavier
+-Erick Toshio Scarpelli Yamada
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
