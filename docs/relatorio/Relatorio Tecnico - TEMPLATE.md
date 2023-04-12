@@ -167,10 +167,19 @@ Idosos que possuem dificuldades em suas tarefas diárias, adultos que cuidam de 
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                                 |
+|--------------------|------------------------------------|--------------------------------------------------------|
+|                    |  Filtro                            |  Achar facilmente o profissional ideal                 |
+|                    |  Calendário                        |  Lembrar quando o serviço foi marcado                  |
+|      Cliente       |  Chat                              |  Combinar o encontro e obter mais segurança            |
+|                    |  Avaliar o profissional            |  Recomenda-lo ou não para outros clientes              |
+|                    |  Entrar no perfil do profissional  |  Ver as informações básicas e a nota do profissional   |
+|                    |  letras grandes/ Interface simples |  Facilitar o uso do site                               |
+-------------------------------------------------------------------------------------------------------------------|
+|                    |  Avaliar o cliente                 |  Escolher se quero ou não trabalhar para esse cliente  |
+|    Profissional    |  Entrar no perfil do cliente       |  Ver as informações básicas e a nota do cliente        |
+|                    |  Chat                              |  Combinar dia, preço e local                           |
+-------------------------------------------------------------------------------------------------------------------|
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
