@@ -160,7 +160,7 @@ Idosos que possuem dificuldades em suas tarefas diárias, adultos que cuidam de 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 >
 > **Exemplo de Proposta de Valor**
->  ![Exemplo de Proposta de Valor](images/Proposta de valor.png)
+>   ![Exemplo de Persona]images/Proposta de valor.png)
 
 
 ## Histórias de Usuários
