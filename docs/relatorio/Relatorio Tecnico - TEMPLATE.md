@@ -9,11 +9,6 @@ IdoS.O.S
 
 ## Participantes
 
-
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
 > - Lucas Alkmim Barros
 > - Daniela Santos Nacur
 > - Livia Camara Xavier
