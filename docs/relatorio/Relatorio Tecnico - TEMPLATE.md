@@ -5,14 +5,16 @@ IdoS.O.S
 
 `CURSO` 
 
-
+Ciências da Computação - PUC Minas Coreu
 
 ## Participantes
 
-> - Lucas Alkmim Barros
-> - Daniela Santos Nacur
-> - Livia Camara Xavier
-> - Erick Toshio Scarpelli Yamada
+Os membros do grupo sao:<br>
+-Lucas Alkmim Barros<br>
+-Daniela Santos Nacur<br>
+-Livia Camara Xavier<br>
+-Erick Toshio Scarpelli Yamada
+
 
 # Estrutura do Documento
 
@@ -151,7 +153,8 @@ IdoS.O.S
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](images/Persona Francisco.png)
+> ![Exemplo de Persona](images/persona_velma.png)
+> ![Exemplo de Persona](images/PersonaFrancisco.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 >
