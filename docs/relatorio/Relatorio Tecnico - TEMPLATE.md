@@ -9,12 +9,15 @@ IdoS.O.S
 
 ## Participantes
 
-Os membros do grupo sao:<br>
--Lucas Alkmim Barros<br>
--Daniela Santos Nacur<br>
--Livia Camara Xavier<br>
--Erick Toshio Scarpelli Yamada
 
+
+> Inclua a lista dos membros da equipe com seus nomes completos.
+>
+> Os membros do grupo são: 
+> - Lucas Alkmim Barros
+> - Daniela Santos Nacur
+> - Livia Camara Xavier
+> - Erick Toshio Scarpelli Yamada
 
 # Estrutura do Documento
 
@@ -153,7 +156,7 @@ Os membros do grupo sao:<br>
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](images/persona_velma.png)
+> ![Exemplo de Persona](images/Persona Francisco.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 >
