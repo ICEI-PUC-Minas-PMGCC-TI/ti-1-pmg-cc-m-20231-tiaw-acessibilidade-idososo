@@ -151,16 +151,16 @@ Idosos que possuem dificuldades em suas tarefas diárias, adultos que cuidam de 
 > - [Canvas da Proposta de Valor](https://analistamodelosdenegocios.com.br/canvas-da-proposta-de-valor/)
 > 
 > 
-> **Exemplo de Persona**
+> **Personas**
 > 
->  ![Exemplo de Persona](images/PersonaVelma.png)
->  ![Exemplo de Persona](images/PersonaFrancisco.png)
->  ![Exemplo de Persona](images/PersonaRoselene.png)
+>  ![Persona Velma](images/PersonaVelma.png)
+>  ![Persona Francisco](images/PersonaFrancisco.png)
+>  ![Persona Rose](images/PersonaRoselene.png)
 > 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 >
-> **Exemplo de Proposta de Valor**
->   ![Exemplo da Proposta de Valor](images/Proposta_de_valor.png)
+> **Proposta de Valor**
+> 
+>  ![Proposta de Valor](images/Proposta_de_valor.png)
 
 
 ## Histórias de Usuários
