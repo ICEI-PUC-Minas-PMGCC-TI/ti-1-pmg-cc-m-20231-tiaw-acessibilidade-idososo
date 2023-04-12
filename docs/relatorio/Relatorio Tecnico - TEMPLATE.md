@@ -175,11 +175,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |                    |  Avaliar o profissional            |  Recomenda-lo ou não para outros clientes              |
 |                    |  Entrar no perfil do profissional  |  Ver as informações básicas e a nota do profissional   |
 |                    |  letras grandes/ Interface simples |  Facilitar o uso do site                               |
--------------------------------------------------------------------------------------------------------------------|
+|--------------------|------------------------------------|--------------------------------------------------------|
 |                    |  Avaliar o cliente                 |  Escolher se quero ou não trabalhar para esse cliente  |
 |    Profissional    |  Entrar no perfil do cliente       |  Ver as informações básicas e a nota do cliente        |
 |                    |  Chat                              |  Combinar dia, preço e local                           |
--------------------------------------------------------------------------------------------------------------------|
+|--------------------|------------------------------------|--------------------------------------------------------|
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
