@@ -60,12 +60,12 @@ O envelhecimento da população é uma complexidade de diferentes pontos de vist
 ## Objetivos
 
 Objetivo geral: desenvolver um software que visa resolver de maneira pratica as dificuldades dos idosos em realizar as tarefas do dia a dia.
-Objetivos específicos:
--Facilitar a busca dos idosos por profissionais próximos que visam atender suas demandas.
--Organizar de maneira pratica nosso site para facilitar o uso por idosos.
--Ordenar através de um calendário as tarefas marcadas como forma de lembrete.
--Aplicar busca por categorias contendo filtros para aumentar a praticidade.
--Avaliar os profissionais com estrelas para indicar a qualidade do trabalho feito pelo trabalhador.
+Objetivos específicos:<br>
+-Facilitar a busca dos idosos por profissionais próximos que visam atender suas demandas.<br>
+-Organizar de maneira pratica nosso site para facilitar o uso por idosos.<br>
+-Ordenar através de um calendário as tarefas marcadas como forma de lembrete.<br>
+-Aplicar busca por categorias contendo filtros para aumentar a praticidade.<br>
+-Avaliar os profissionais com estrelas para indicar a qualidade do trabalho feito pelo trabalhador.<br>
 -Criar um chat entre cliente e profissional para mais organização, segurança e facilidade para marcar o trabalho.
 
 
