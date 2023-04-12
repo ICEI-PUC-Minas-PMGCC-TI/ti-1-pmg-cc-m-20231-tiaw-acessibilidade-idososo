@@ -321,7 +321,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |Processo de Design Thinkgin  | Miro |  [https://miro.com/app/board/uXjVMU67v40=/](https://miro.com/app/board/uXjVMU67v40=/) | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | MavelApp ou Figma | [https://marvelapp.com/prototype/882c0fc](https://marvelapp.com/prototype/882c0fc) | 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
