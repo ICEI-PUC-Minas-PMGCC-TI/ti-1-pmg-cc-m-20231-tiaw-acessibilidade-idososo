@@ -3,7 +3,7 @@
 
 IdoS.O.S
 
-`CURSO` 
+Ciencias da Computação - Puc Minas Coreu
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
