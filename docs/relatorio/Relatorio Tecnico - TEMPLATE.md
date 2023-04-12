@@ -153,8 +153,9 @@ Os membros do grupo sao:<br>
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](images/persona_velma.png)
+> ![Exemplo de Persona](images/PersonaVelma.png)
 > ![Exemplo de Persona](images/PersonaFrancisco.png)
+> ![Exemplo de Persona](images/PersonaRoselene.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 >
