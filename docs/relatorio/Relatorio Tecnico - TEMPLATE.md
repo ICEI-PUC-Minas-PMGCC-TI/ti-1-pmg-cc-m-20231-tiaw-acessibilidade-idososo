@@ -71,19 +71,47 @@ Objetivos específicos:<br>
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A escolha do projeto que estamos trabalhando foi impulsionado tanto por relatos pessoais como também por pesquisas feitas pelo grupo para maior aprofundamento do assunto em questão. Ao analisarmos a dor e a situação enfrentada por essa parcela da população, vimos a necessidade de criar um projeto que facilitasse a vida dos idosos utilizando da tecnologia. Com isso a função do nosso projeto visa tanto a acessibilidade dos idosos para procurar ajuda em suas tarefas, como também disponibilizar aos trabalhadores atendimentos específicos. Assim, o projeto terá foco para idosos e prestadores de serviços, contribuindo para o contato entre os mesmos.<br>
+Fizemos entrevistas para identificarmos melhor a dor das personas do nosso projeto, abaixo colocamos uma das entrevistas que fizemos:<br>
+Entrevista com Perguntas:<br>
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+- Boa tarde, tudo bem!? Nós somos estudantes de C.C na PUC, e estamos realizando um trabalho na faculdade com objetivo de entender o comportamento das pessoas. Se você não se sentir à vontade para responder alguma coisa não se sinta pressionado.<br>
+
+---“olá, tudo bem sim. Ok”<br>
+
+- O que você gosta de fazer no seu dia a dia?<br>
+--“eu gosto de ver filmes com meu gato e adoro fazer crochê”.<br>
+
+- Sério? Que legal, a minha vó também faz isso! E você tem alguma dificuldade para fazer isso?<br>
+--“Com isso não, não faço esforço pois fico sentada e acomodada”.<br>
+
+- Caso não: Mesmo?! Teve alguma outra tarefa que você teve dificuldade pra fazer, por exemplo, ir ao supermercado, padaria? (improviso história da vó)<br>
+--“sim, tenho muita dificuldade de ficar muito tempo em pé e sair de casa, e vou poucas vezes comprar as coisas de cozinha por causa disso”.<br>
+
+- Caso sim: Entendi, o nosso projeto busca entender essas dificuldades e facilita-las, você acha isso interessante?<br>
+
+---“acho interessante, ia ficar feliz de ter uma pessoa quando eu preciso ir fazer compras”.<br>
+
+- Ótimo! Qual a sua opinião a respeito de ter pessoas que apoiem as outras em tarefas diárias?<br>
+--“Acho legal, mas é difícil achar alguém que esteja disponível e confiável pra me ajudar”.<br>
+
+- (História vó). Isso é interessante ne?! Você gostaria de ter esse tipo de ajuda?<br>
+--“gostaria de ter, ia ser bem mais fácil”.<br>
+
+- Entendi, e você tem alguma facilidade com aparelhos eletronicos? Porque? (improviso historia do tia)<br>
+--“minha filha me deu um celular, mas tenho dificuldade para mexer, geralmente entro para jogar buraco mas não sei as outras funcionalidades do aparelho”.<br>
+
+- Caso sim: Legal! É que eu estou desenvolvendo um aplicativo justamente para questõres como essa, que busque ajudar na realização de tarefas. Quais as principais tarefas de casa ou pessoais que você tem alguma dificuldade e gostaria de alguma ajuda?<br>
+
+---"que legal.Bom aqui em casa tenho dificuldade para limpar a casa, não consigo abaixar e tenho medo de escorregar.Tambem não consigo cozinhar muito pois eu fico com dores na perna e esqueço de as vezes desligar o fogão”.<br>
+
+- Beleza! Muito obrigado pelas respostas, espero que nosso projeto consiga ajudar pessoas como você.<br>
+
+
+
+
+
+
 
 ## Público-Alvo
 
