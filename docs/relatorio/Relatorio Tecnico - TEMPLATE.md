@@ -3,9 +3,9 @@
 
 IdoS.O.S
 
-Ciencias da Computação - Puc Minas Coreu
+`CURSOS`
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciencias da Computação - Puc Minas Coreu
 
 ## Participantes
 
