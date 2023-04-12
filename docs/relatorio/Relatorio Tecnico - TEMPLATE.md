@@ -149,18 +149,18 @@ Idosos que possuem dificuldades em suas tarefas diárias, adultos que cuidam de 
 > - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
 > - [Canvas da Proposta de Valor](https://analistamodelosdenegocios.com.br/canvas-da-proposta-de-valor/)
-> 
-> 
-> **Personas**
-> 
->  ![Persona Velma](images/PersonaVelma.png)
->  ![Persona Francisco](images/PersonaFrancisco.png)
->  ![Persona Rose](images/PersonaRoselene.png)
-> 
->
-> **Proposta de Valor**
-> 
->  ![Proposta de Valor](images/Proposta_de_valor.png)
+
+
+**Personas**
+
+![Persona Velma](images/PersonaVelma.png)
+![Persona Francisco](images/PersonaFrancisco.png)
+![Persona Rose](images/PersonaRoselene.png)
+ 
+
+**Proposta de Valor**
+
+![Proposta de Valor](images/Proposta_de_valor.png)
 
 
 ## Histórias de Usuários
