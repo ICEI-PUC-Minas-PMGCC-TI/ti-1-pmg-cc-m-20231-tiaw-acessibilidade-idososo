@@ -104,7 +104,7 @@ Os membros do grupo sao:<br>
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Idosos que possuem dificuldades em suas tarefas diárias, adultos que cuidam de idosos e profissionais que desejam ajudar pessoas de idade avançada.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
