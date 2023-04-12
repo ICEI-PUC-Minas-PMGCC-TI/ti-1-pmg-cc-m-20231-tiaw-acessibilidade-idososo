@@ -9,17 +9,12 @@ IdoS.O.S
 
 ## Participantes
 
-os membros do grupo sao:<br>
+Os membros do grupo sao:<br>
 -Lucas Alkmim Barros<br>
 -Daniela Santos Nacur<br>
 -Livia Camara Xavier<br>
 -Erick Toshio Scarpelli Yamada
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
 
 # Estrutura do Documento
 
