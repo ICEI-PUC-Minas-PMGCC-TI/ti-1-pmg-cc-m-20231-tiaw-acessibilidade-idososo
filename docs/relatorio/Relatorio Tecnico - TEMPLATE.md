@@ -258,40 +258,37 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## User Flow
 
-![UserFlow](images/user_flow.png)
+![UserFlow](images/flowmap.png)
 
 
 ## Wireframes
 
-![Wireframe Tela Principal](images/
-![Wireframe Tela Principal](images/
-![Wireframe Tela Principal](images/
-![Wireframe Tela Principal](images/
-![Wireframe Tela Principal](images/
-![Wireframe Tela Principal](images/
-![Wireframe Tela Principal](images/
-![Wireframe Tela Principal](images/
-![Wireframe Tela Principal](images/
-![Wireframe Tela Principal](images/
-![Wireframe Tela Principal](images/
-![Wireframe Tela Principal](images/
-![Wireframe Tela Principal](images/
-![Wireframe Tela Principal](images/
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+-Tela Principal:
+<br>![Wireframe Tela Principal](images/Tela_principal.png)
+<br><br>-Tela Sobre Nós:
+<br>![Wireframe Tela Sobre Nos](images/Tela_sobre_nos.png)
+<br><br>-Tela Contatos:
+<br>![Wireframe Tela Contatos](images/Telaa_contatos.png)
+<br><br>-Telas Chat:
+<br>![Wireframe Tela Chat](images/Tela_chat.png)
+<br>![Wireframe Tela Chat Interno](images/Tela_chat_interno.png)
+<br><br>-Tela Perfil Traabalhador:
+<br>![Wireframe Tela Perfil Trabalhador](images/Tela_perfil_trabalhador.png)
+<br><br>-Tela Finalizar Serviço: 
+<br>![Wireframe Tela Finalizar Serviço](images/Tela_finalizar.png)
+<br><br>-Tela Login:
+<br>![Wireframe Tela Login](images/Tela_login.png)
+<br><br>-Tela Registrar Idoso:
+<br>![Wireframe Tela Registrar Idoso](images/Tela_registrar_idoso.png)
+<br><br>-Tela Registrar Trabalhador:
+<br>![Wireframe Tela Registrar Trabalhador](images/Tela_Registrar_Trabalhador.png)
+<br><br>-Tela Pesquisa:
+<br>![Wireframe Tela Pesquisa](images/Tela_pesquisa.png)
+<br><br>-Tela Calendário:
+<br>![Wireframe Tela Calendario](images/Tela_calendario.png)
+<br>![Wireframe Tela Dia](images/Tela_dia.png)
+<br><br>-Tela Minha Conta
+<br>![Wireframe Tela Minha Conta](images/Tela_minha_conta.png)
 
 
 # Metodologia
