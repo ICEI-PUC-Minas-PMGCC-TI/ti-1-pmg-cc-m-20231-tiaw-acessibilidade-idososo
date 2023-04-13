@@ -127,11 +127,11 @@ Nesta parte do documento apresentamos nossas três personas, seus quadros de emp
 
 ## Personas, Empatia e Proposta de Valor
 
-As tres personas do nosso projeto possuem as suas proprias individualidades, porem, possuem diversos aspectos em comum e que os levam a mesma necessidade.Velma, Francisco e Roselene tem algum tipo de intimidade com aparelhos eletronicos, tambem sentem a necessidade de ajuda de profissionais para facilitar o dia a dia, visto que eles tem ou connhecem um familiar com algum tipo de deficiencia cognitiva, fisica ou mental que dificulte a realizaçao de tarefas.<br>
-Ao analisar os mapas de empatia das tres personas, percebe-se que possuem objetivos e pensamentos parecidos,no qual prezam por uma vida social e um bom convivio entre amigos e familiares.<br>
-Os principais envolvidos com a soluçao do nosso projeto:<br>
--trabalhadores: sao os profissionais qualificados, que tambem terao acesso ao nosso site, com o intuito de fazer serviços especificos aos idosos.<br>
--familiares dos idosos: sao as pessoas proximas dos nossos cliente e que tem mais intimidade com aparelhos eletronicos, com isso ja possuem o habito de ajudar os idosos e , caso haja necessidade, conseguem auxiliar no processo de buscar ajuda profissional.
+As três personas do nosso projeto possuem as suas próprias individualidades, porém, possuem diversos aspectos em comum e que os levam à mesma necessidade. Velma, Francisco e Roselene tem algum tipo de intimidade com aparelhos eletrônicos, também sentem a necessidade de ajuda de profissionais para facilitar o dia a dia, visto que eles têm ou conhecem um familiar com algum tipo de deficiência cognitiva, fisica ou mental que dificulte a realização dessas tarefas.<br>
+Ao analisar os mapas de empatia das três personas, percebe-se que possuem objetivos e pensamentos parecidos, no qual prezam por uma vida social e um bom convívio entre amigos e familiares.<br>
+Os principais envolvidos com a solução do nosso projeto:<br>
+-trabalhadores: são os profissionais qualificados, que também terão acesso ao nosso site, com o intuito de fazer serviços específicos aos idosos.<br>
+-familiares dos idosos: são as pessoas próximas dos nossos cliente e que têm mais intimidade com aparelhos eletrônicos, com isso já possuem o hábito de ajudar os idosos e, caso haja necessidade, conseguem auxiliar no processo de buscar ajuda profissional.
 
 
 > Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
