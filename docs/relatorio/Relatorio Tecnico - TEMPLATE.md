@@ -158,6 +158,9 @@ Nosso site foi pensado para pessoas idosas utilizarem. Dessa forma, para abrange
 
 ![Proposta de Valor](images/Proposta_de_valor.png)
 
+**Empatia**
+
+![Proposta de Valor](images/)
 
 ## Histórias de Usuários
 
