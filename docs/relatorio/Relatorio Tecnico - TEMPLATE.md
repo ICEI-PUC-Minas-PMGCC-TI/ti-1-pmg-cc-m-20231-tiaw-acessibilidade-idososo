@@ -483,6 +483,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 # Referências
 
 [Formato ABNT](https://www.atlassian.com/br/agile/project-management/user-stories)
+[Formato ABNT](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
