@@ -159,7 +159,7 @@ Nosso site foi pensado para pessoas idosas utilizarem. Dessa forma, para abrange
 
 ![Persona Roselene](images/PersonaRoselene.png)
 
-![Empatia Roselene](images/EmpatiaRoselena.png)
+![Empatia Roselene](images/EmpatiaRoselene.png)
  
 
 **Proposta de Valor**
