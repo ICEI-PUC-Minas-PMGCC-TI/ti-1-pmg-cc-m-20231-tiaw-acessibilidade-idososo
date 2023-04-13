@@ -287,7 +287,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 <br><br>-Tela Calendário:
 <br>![Wireframe Tela Calendario](images/Tela_calendario.png)
 <br>![Wireframe Tela Dia](images/Tela_dia.png)
-<br><br>-Tela Minha Conta
+<br><br>-Tela Minha Conta:
 <br>![Wireframe Tela Minha Conta](images/Tela_minha_conta.png)
 
 
