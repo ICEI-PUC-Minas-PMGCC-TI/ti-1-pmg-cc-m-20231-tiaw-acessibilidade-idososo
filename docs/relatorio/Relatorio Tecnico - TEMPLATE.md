@@ -346,7 +346,7 @@ Lucas Alkmim: Projeto de Interface, Especificações do projeto.<br>
 
 ## Quadro de Controle de Tarefas
 
-[Kanban](images/kanban.jpg)
+![Kanban](images/kanban.jpg)
 
 
 ## Ferramentas
