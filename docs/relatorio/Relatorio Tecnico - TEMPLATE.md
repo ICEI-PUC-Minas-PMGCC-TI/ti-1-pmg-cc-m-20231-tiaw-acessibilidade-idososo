@@ -119,7 +119,7 @@ Entrevista com Perguntas:<br>
 
 # Especificações do Projeto
 
- Nesta parte do documento apresentamos nossas três personas, seus quadros de empatia e a proposta de valor que fazem parte do processo de design thinking do trabalho. As ferramentas utilizadas para a realização desta parte foram o Miro, this person does not exist e entrevistas para definição das personas. Além disso criamos as histórias de usuários do projeto baseado nos sites Atlassian e Medium.
+ Nesta parte do documento apresentamos nossas três personas, seus quadros de empatia e a proposta de valor que fazem parte do processo de design thinking do trabalho. As ferramentas utilizadas para a realização desta parte foram o Miro, this person does not exist e entrevistas para definição das personas. Além disso criamos as histórias de usuários do projeto baseado nos sites Atlassian e Medium. Também decidimos sobre os requisitos funcionais e não funcionais que o nosso site apresentará. Utilizamos como inspiração o blog trybe.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
