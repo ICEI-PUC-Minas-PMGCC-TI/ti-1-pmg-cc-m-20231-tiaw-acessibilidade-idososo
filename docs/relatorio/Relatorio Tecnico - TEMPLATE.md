@@ -213,16 +213,22 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário filtre o tipo de trabalho | ALTA | 
 |RF-002| Chat entre profissional e cliente | MÉDIA |
-|RF-003| Avaliação | MÉDIA |
-|RF-004| Agenda | MÉDIA |
+|RF-003| Avaliação dos usuários | MÉDIA |
+|RF-004| Agenda para marcação dos compromissos | MÉDIA |
+|RF-005| Cadastro dos usuários e trabalhadores | ALTA |
+|RF-006| Possibilidade de visitar o perfil dos usuários  | BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001|  | MÉDIA | 
+|RNF-001| Atualizações semanais que irão excluir trabalhadores com baixas avaliações | MÉDIA | 
 |RNF-002| Interface simples e intuitiva |  ALTA | 
+|RNF-003| Banco de dados dos usuários  | ALTA |
+|RNF-004| Alta segurança para que as informações sejam protegidas  | ALTA |
+|RNF-005| Disponibilidade 24 horas do site  | BAIXA |
+|RNF-006| Backup automático das conversas do chat  | BAIXA |
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
