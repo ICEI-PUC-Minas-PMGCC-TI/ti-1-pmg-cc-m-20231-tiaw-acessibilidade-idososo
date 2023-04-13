@@ -55,7 +55,7 @@ Os membros do grupo sao:<br>
 
 ## Problema
 
-O envelhecimento da população é uma complexidade de diferentes pontos de vista e é tratado de forma coletiva, porem todos os idosos possuem sua individualidade na maneira de agir, entender e, principalmente, a individualidade na sua condição de vida. O idoso, apesar de ter dificuldades em se readaptar em novas rotinas e situações, alguns ainda o fazem ou tem interesse em fazer. A necessidade do nosso projeto surge do momento em que os idosos começam a perder características cognitivas, físicas e mentais e, consequentemente os problemas do dia a dia enfrentados por eles se intensificam e a qualidade de vida e a saúde são reduzidas. Falhas na memória, perda de visão e audição, maior estresse e perda de força nas pernas e braços são alguns dos diversos problemas que os idosos passam a ter em certa idade, e que dificultam as atividades importantes de casa no dia a dia, como ir no supermercado e consertar objetos em casa, que acabam se tornando tarefas perigosas e podem compromete-los. Com isso, nosso projeto visa ajudar e simplificar os problemas que toda essa parcela da população tem.
+ O envelhecimento da população é uma complexidade de diferentes pontos de vista e é tratado de forma coletiva, porem todos os idosos possuem sua individualidade na maneira de agir, entender e, principalmente, a individualidade na sua condição de vida. O idoso, apesar de ter dificuldades em se readaptar em novas rotinas e situações, alguns ainda o fazem ou tem interesse em fazer. A necessidade do nosso projeto surge do momento em que os idosos começam a perder características cognitivas, físicas e mentais e, consequentemente os problemas do dia a dia enfrentados por eles se intensificam e a qualidade de vida e a saúde são reduzidas. Falhas na memória, perda de visão e audição, maior estresse e perda de força nas pernas e braços são alguns dos diversos problemas que os idosos passam a ter em certa idade, e que dificultam as atividades importantes de casa no dia a dia, como ir no supermercado e consertar objetos em casa, que acabam se tornando tarefas perigosas e podem compromete-los. Com isso, nosso projeto visa ajudar e simplificar os problemas que toda essa parcela da população tem.
 
 ## Objetivos
 
@@ -71,8 +71,8 @@ Objetivos específicos:<br>
 
 ## Justificativa
 
-A escolha do projeto que estamos trabalhando foi impulsionado tanto por relatos pessoais como também por pesquisas feitas pelo grupo para maior aprofundamento do assunto em questão. Ao analisarmos a dor e a situação enfrentada por essa parcela da população, vimos a necessidade de criar um projeto que facilitasse a vida dos idosos utilizando da tecnologia. Com isso a função do nosso projeto visa tanto a acessibilidade dos idosos para procurar ajuda em suas tarefas, como também disponibilizar aos trabalhadores atendimentos específicos. Assim, o projeto terá foco para idosos e prestadores de serviços, contribuindo para o contato entre os mesmos.<br>
-Fizemos entrevistas para identificarmos melhor a dor das personas do nosso projeto, abaixo colocamos uma das entrevistas que fizemos:<br>
+ A escolha do projeto que estamos trabalhando foi impulsionado tanto por relatos pessoais como também por pesquisas feitas pelo grupo para maior aprofundamento do assunto em questão. Ao analisarmos a dor e a situação enfrentada por essa parcela da população, vimos a necessidade de criar um projeto que facilitasse a vida dos idosos utilizando da tecnologia. Com isso a função do nosso projeto visa tanto a acessibilidade dos idosos para procurar ajuda em suas tarefas, como também disponibilizar aos trabalhadores atendimentos específicos. Assim, o projeto terá foco para idosos e prestadores de serviços, contribuindo para o contato entre os mesmos.<br>
+ Fizemos entrevistas para identificarmos melhor a dor das personas do nosso projeto, abaixo colocamos uma das entrevistas que fizemos:<br>
 Entrevista com Perguntas:<br>
 
 - Boa tarde, tudo bem!? Nós somos estudantes de C.C na PUC, e estamos realizando um trabalho na faculdade com objetivo de entender o comportamento das pessoas. Se você não se sentir à vontade para responder alguma coisa não se sinta pressionado.<br>
@@ -115,11 +115,11 @@ Entrevista com Perguntas:<br>
 
 ## Público-Alvo
 
-Nosso site foi pensado para pessoas idosas utilizarem. Dessa forma, para abranger pessoas com pouco ou razoável conhecimento sobre tecnologias será um website de fácil acesso e com uma linguagem simples. Além disso, foi considerado possíveis dificuldades que atrapalhariam o usuário como visão prejudicada e dificuldade para se locomover. Para isso, o site terá letras maiores e botões mais perceptíveis.  Nossa interface também tem o foco para pessoas mais jovens que pretendem ajudar pessoas mais velhas e até mesmo profissionais que buscam uma forma de rendimento e querem oferecer seu trabalho. Um exemplo é uma senhora, de 71 anos, aposentada, que gosta de cozinhar, mas por dificuldade de mobilidade não consegue ir sozinha ao supermercado e vai buscar em nosso site uma pessoa disposta a ajuda-la nessa tarefa. 
+ Nosso site foi pensado para pessoas idosas utilizarem. Dessa forma, para abranger pessoas com pouco ou razoável conhecimento sobre tecnologias será um website de fácil acesso e com uma linguagem simples. Além disso, foi considerado possíveis dificuldades que atrapalhariam o usuário como visão prejudicada e dificuldade para se locomover. Para isso, o site terá letras maiores e botões mais perceptíveis.  Nossa interface também tem o foco para pessoas mais jovens que pretendem ajudar pessoas mais velhas e até mesmo profissionais que buscam uma forma de rendimento e querem oferecer seu trabalho. Um exemplo é uma senhora, de 71 anos, aposentada, que gosta de cozinhar, mas por dificuldade de mobilidade não consegue ir sozinha ao supermercado e vai buscar em nosso site uma pessoa disposta a ajuda-la nessa tarefa. 
 
 # Especificações do Projeto
 
-Nesta parte do documento apresentamos nossas três personas, seus quadros de empatia e a proposta de valor que fazem parte do processo de design thinking do trabalho. As ferramentas utilizadas para a realização desta parte foram o Miro, this person does not exist e entrevistas para definição das personas. Além disso criamos as histórias de usuários do projeto baseado nos sites Atlassian e Medium.
+ Nesta parte do documento apresentamos nossas três personas, seus quadros de empatia e a proposta de valor que fazem parte do processo de design thinking do trabalho. As ferramentas utilizadas para a realização desta parte foram o Miro, this person does not exist e entrevistas para definição das personas. Além disso criamos as histórias de usuários do projeto baseado nos sites Atlassian e Medium.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -127,9 +127,9 @@ Nesta parte do documento apresentamos nossas três personas, seus quadros de emp
 
 ## Personas, Empatia e Proposta de Valor
 
-As três personas do nosso projeto possuem as suas próprias individualidades, porém, possuem diversos aspectos em comum e que os levam à mesma necessidade. Velma, Francisco e Roselene tem algum tipo de intimidade com aparelhos eletrônicos, também sentem a necessidade de ajuda de profissionais para facilitar o dia a dia, visto que eles têm ou conhecem um familiar com algum tipo de deficiência cognitiva, fisica ou mental que dificulte a realização dessas tarefas.<br>
+ As três personas do nosso projeto possuem as suas próprias individualidades, porém, possuem diversos aspectos em comum e que os levam à mesma necessidade. Velma, Francisco e Roselene tem algum tipo de intimidade com aparelhos eletrônicos, também sentem a necessidade de ajuda de profissionais para facilitar o dia a dia, visto que eles têm ou conhecem um familiar com algum tipo de deficiência cognitiva, fisica ou mental que dificulte a realização dessas tarefas.<br>
 Ao analisar os mapas de empatia das três personas, percebe-se que possuem objetivos e pensamentos parecidos, no qual prezam por uma vida social e um bom convívio entre amigos e familiares.<br>
-Os principais envolvidos com a solução do nosso projeto:<br>
+ Os principais envolvidos com a solução do nosso projeto:<br>
 -trabalhadores: são os profissionais qualificados, que também terão acesso ao nosso site, com o intuito de fazer serviços específicos aos idosos.<br>
 -familiares dos idosos: são as pessoas próximas dos nossos cliente e que têm mais intimidade com aparelhos eletrônicos, com isso já possuem o hábito de ajudar os idosos e, caso haja necessidade, conseguem auxiliar no processo de buscar ajuda profissional.
 
