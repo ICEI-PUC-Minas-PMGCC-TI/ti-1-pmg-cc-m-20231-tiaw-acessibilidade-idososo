@@ -150,17 +150,22 @@ Nosso site foi pensado para pessoas idosas utilizarem. Dessa forma, para abrange
 **Personas**
 
 ![Persona Velma](images/PersonaVelma.png)
+![Proposta de Valor](images/EmpatiaVelma)
+
 ![Persona Francisco](images/PersonaFrancisco.png)
+![Proposta de Valor](images/EmpatiaFrancisco)
+
 ![Persona Rose](images/PersonaRoselene.png)
+![Proposta de Valor](images/EmpatiaRoselena)
  
 
 **Proposta de Valor**
 
 ![Proposta de Valor](images/Proposta_de_valor.png)
 
-**Empatia**
 
-![Proposta de Valor](images/)
+
+
 
 ## Histórias de Usuários
 
