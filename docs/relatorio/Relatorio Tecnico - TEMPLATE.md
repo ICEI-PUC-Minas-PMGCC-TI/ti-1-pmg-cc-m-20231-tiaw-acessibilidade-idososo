@@ -324,10 +324,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
+Daniela Nacur: Contexto do Projeto, Metodologia.<br>
+Erick Yamada: Projeto de Interface, Especificações do projeto.<br>
+Lívia Xavier: Metodologia, Contexto do Projeto.<br>
+Lucas Alkmim: Projeto de Interface, Especificações do projeto.<br>
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
