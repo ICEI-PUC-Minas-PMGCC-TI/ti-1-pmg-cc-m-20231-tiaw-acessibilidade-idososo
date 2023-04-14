@@ -229,31 +229,31 @@ Visando um site mais acessivel para idosos, colocamos ferramentas mais intuitiva
 
 ## Wireframes
 
--Tela Principal:
+-Tela Principal: Tela inicial do site, dela é possivel acessar as abas sobre nós, contato, login, minha conta, mensagens, filtros e calendario, além disso, visando maior facilidade de uso para idosos, buscamos faze-la mais intuitiva.
 <br>![Wireframe Tela Principal](images/Tela_principal.png)
-<br><br>-Tela Sobre Nós:
+<br><br>-Tela Sobre Nós: Tela que fala sobre os desenvolvedores do site.
 <br>![Wireframe Tela Sobre Nos](images/Tela_sobre_nos.png)
-<br><br>-Tela Contatos:
+<br><br>-Tela Contatos: Tela que informa as possiveis formas de contato cliente-desenvolvedor.
 <br>![Wireframe Tela Contatos](images/Telaa_contatos.png)
-<br><br>-Telas Chat:
+<br><br>-Telas Chat: Tela na qual o usuário tem acesso as pessoas que ele conversa, ao clicar na pessoa, é aberto a tela de chat, em que é possivel ter uma relação direta cliente-trabalhador.
 <br>![Wireframe Tela Chat](images/Tela_chat.png)
 <br>![Wireframe Tela Chat Interno](images/Tela_chat_interno.png)
-<br><br>-Tela Perfil Traabalhador:
+<br><br>-Tela Perfil Traabalhador: É possivel acessar essa tela clicando no nome da pessoa que voce está conversando (pelo chat interno). A tela mostra as informações do trabalhador.
 <br>![Wireframe Tela Perfil Trabalhador](images/Tela_perfil_trabalhador.png)
-<br><br>-Tela Finalizar Serviço: 
+<br><br>-Tela Finalizar Serviço: Tela para encerrar o serviço e avaliar o trabalhador. Acessada após o serviço ser feito.
 <br>![Wireframe Tela Finalizar Serviço](images/Tela_finalizar.png)
-<br><br>-Tela Login:
+<br><br>-Tela Login: Tela onde é possível fazer o login.
 <br>![Wireframe Tela Login](images/Tela_login.png)
-<br><br>-Tela Registrar Idoso:
+<br><br>-Tela Registrar Idoso: Tela na qual os clientes(idosos) vão se registrar. Acessada pela tela de login.
 <br>![Wireframe Tela Registrar Idoso](images/Tela_registrar_idoso.png)
-<br><br>-Tela Registrar Trabalhador:
+<br><br>-Tela Registrar Trabalhador: Tela na qual os clientes(trabalhadores) vão se registrar. Acessada pela tela de login.
 <br>![Wireframe Tela Registrar Trabalhador](images/Tela_Registrar_Trabalhador.png)
-<br><br>-Tela Pesquisa:
+<br><br>-Tela Pesquisa: Essa tela vai aparecer após o cliente selecionar os filtros e clicar em "buscar" na tela princiapal. Nessa tela, vão aparecer os trabalhadores que são compatíveis com os filtros requisitados, além de mostrar o valor, a avaliação média do trabalhador, e um botão que possibilita um chat com o trabalhador.
 <br>![Wireframe Tela Pesquisa](images/Tela_pesquisa.png)
-<br><br>-Tela Calendário:
+<br><br>-Tela Calendário: Acessada após clicar no calendário da tela principal, nela é possivel seleceionar um dia especíco. Ao selecionar o dia, a "Tela Dia" será aberta, a qual mostrará as informações daquele dia.
 <br>![Wireframe Tela Calendario](images/Tela_calendario.png)
 <br>![Wireframe Tela Dia](images/Tela_dia.png)
-<br><br>-Tela Minha Conta:
+<br><br>-Tela Minha Conta: Tela que mostra as informações do próprio cliente, ao clicar no icone de lápis, voce poderá editar suas informações.
 <br>![Wireframe Tela Minha Conta](images/Tela_minha_conta.png)
 
 
