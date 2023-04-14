@@ -218,14 +218,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
 # Projeto de Interface
 
 Visando um site mais acessivel para idosos, colocamos ferramentas mais intuitivas, além de interface mais simplificada, também focamos em deixar as fontes maiores, para que nosso público-alvo tenha uma experiência mais agradável. Ademais, colocamos utensílios que agradem tanto o cliente(idoso), quanto o profissional(trabalhador), como filtros para pesquisa, chats para interação cliente-trabalhador, possibilidade de avaliação e um calendário para melhor organização. 
