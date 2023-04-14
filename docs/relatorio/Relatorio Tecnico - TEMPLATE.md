@@ -256,12 +256,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Visando um site mais acessivel para idosos, colocamos ferramentas mais intuitivas, além de interface mais simplificada, também focamos em deixar as fontes maiores, para que nosso público-alvo tenha uma experiência mais agradável. Ademais, colocamos utensílios que agradem tanto o cliente(idoso), quanto o profissional(trabalhador), como filtros para pesquisa, chats para interação cliente-trabalhador, possibilidade de avaliação e um calendário para melhor organização. 
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+
 
 ## User Flow
 
@@ -324,9 +321,6 @@ Daniela Nacur: Contexto do Projeto, Metodologia.<br>
 Erick Yamada: Projeto de Interface, Especificações do projeto.<br>
 Lívia Xavier: Metodologia, Contexto do Projeto.<br>
 Lucas Alkmim: Projeto de Interface, Especificações do projeto.<br>
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ## Quadro de Controle de Tarefas
 
