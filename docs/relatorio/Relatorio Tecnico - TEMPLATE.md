@@ -259,23 +259,7 @@ Visando um site mais acessivel para idosos, colocamos ferramentas mais intuitiva
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Nosso grupo se reunia todas as sextas-feiras, pela ferramenta "Discord", para definir as tarefas que seriam realizadas, por cada um, durante a semana. Nas sexta-feiras seguintes, apresentavamos os trabalhsos feitos, em que opinavamos a respeito do serviço de cada um, apresentando todos os pontos positivos e negativos, assim, o ciclo se repetia. Ademais, também nas sextas-feiras, durante as reuniões, a equipe entrava nos ambientes de trabalho "Miro", "Canva" e "Marvel" para a realização do processo de Desing Thinking e para o mapeamento dos Wireframes.
 
 ## Divisão de Papéis
 
