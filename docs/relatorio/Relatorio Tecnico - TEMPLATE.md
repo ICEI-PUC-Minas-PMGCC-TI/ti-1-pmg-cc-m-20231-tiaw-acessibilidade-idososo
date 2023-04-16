@@ -302,6 +302,8 @@ Lucas Alkmim: Projeto de Interface, Especificações do projeto.<br>
 
 ## Controle de Versão
 
+O controle foi feito pelo GIT
+
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
@@ -422,5 +424,8 @@ Lucas Alkmim: Projeto de Interface, Especificações do projeto.<br>
 > no desenvolvimento do trabalho.
 > 
 > **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+> - [https://blog.betrybe.com/tecnologia/requisitos-nao-funcionais/](https://blog.betrybe.com/tecnologia/requisitos-nao-funcionais/))
+> - [https://medium.com/@brunofeitosa/como-criar-uma-boa-historia-de-usu%C3%A1rio-3a7b6cf7d38](https://medium.com/@brunofeitosa/como-criar-uma-boa-historia-de-usu%C3%A1rio-3a7b6cf7d38)
+> - [https://www.atlassian.com/br/agile/project-management/user-stories](https://www.atlassian.com/br/agile/project-management/user-stories)
+> - [https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+> - [https://www.atlassian.com/br/agile/project-management/user-stories](https://www.atlassian.com/br/agile/project-management/user-stories)
