@@ -119,7 +119,7 @@ Entrevista com Perguntas:<br>
 
 # Especificações do Projeto
 
- Nesta parte do documento apresentamos nossas três personas, seus quadros de empatia e a proposta de valor que fazem parte do processo de design thinking do trabalho. As ferramentas utilizadas para a realização desta parte foram o Miro, this person does not exist e entrevistas para definição das personas. Além disso criamos as histórias de usuários do projeto baseado nos sites Atlassian e Medium. Também decidimos sobre os requisitos funcionais e não funcionais que o nosso site apresentará. Utilizamos como inspiração o blog trybe.
+ Nesta parte do documento apresentamos nossas três personas, seus quadros de empatia e a proposta de valor que fazem parte do processo de design thinking do trabalho. As ferramentas utilizadas para a realização desta parte foram o Miro, this person does not exist e entrevistas para definição das personas. Além disso criamos as histórias de usuários do projeto baseado nos sites "Atlassian" e "Medium". Também decidimos sobre os requisitos funcionais e não funcionais que o nosso site apresentará. Utilizamos como inspiração o blog "trybe".
 
 
 
@@ -259,23 +259,7 @@ Visando um site mais acessivel para idosos, colocamos ferramentas mais intuitiva
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Nosso grupo se reunia todas as sextas-feiras, pela ferramenta "Discord", para definir as tarefas que seriam realizadas, por cada um, durante a semana. Nas sexta-feiras seguintes, apresentavamos os trabalhsos feitos, em que opinavamos a respeito do serviço de cada um, apresentando todos os pontos positivos e negativos, assim, o ciclo se repetia. Ademais, também nas sextas-feiras, durante as reuniões, a equipe entrava nos ambientes de trabalho "Miro", "Canva" e "Marvel" para a realização do processo de Desing Thinking e para o mapeamento dos Wireframes.
 
 ## Divisão de Papéis
 
@@ -301,6 +285,8 @@ Lucas Alkmim: Projeto de Interface, Especificações do projeto.<br>
 
 
 ## Controle de Versão
+
+O controle foi feito pelo GIT
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -422,5 +408,8 @@ Lucas Alkmim: Projeto de Interface, Especificações do projeto.<br>
 > no desenvolvimento do trabalho.
 > 
 > **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+> - [https://blog.betrybe.com/tecnologia/requisitos-nao-funcionais/](https://blog.betrybe.com/tecnologia/requisitos-nao-funcionais/)
+> - [https://medium.com/@brunofeitosa/como-criar-uma-boa-historia-de-usu%C3%A1rio-3a7b6cf7d38](https://medium.com/@brunofeitosa/como-criar-uma-boa-historia-de-usu%C3%A1rio-3a7b6cf7d38)
+> - [https://www.atlassian.com/br/agile/project-management/user-stories](https://www.atlassian.com/br/agile/project-management/user-stories)
+> - [https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+> - [https://www.atlassian.com/br/agile/project-management/user-stories](https://www.atlassian.com/br/agile/project-management/user-stories)
