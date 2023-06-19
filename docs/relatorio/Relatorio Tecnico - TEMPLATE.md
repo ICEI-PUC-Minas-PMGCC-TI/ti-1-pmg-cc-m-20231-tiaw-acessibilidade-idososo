@@ -119,7 +119,7 @@ Entrevista com Perguntas:<br>
 
 # Especificações do Projeto
 
- Nesta parte do documento apresentamos nossas três personas, seus quadros de empatia e a proposta de valor que fazem parte do processo de design thinking do trabalho. As ferramentas utilizadas para a realização desta parte foram o Miro, this person does not exist e entrevistas para definição das personas. Além disso criamos as histórias de usuários do projeto baseado nos sites Atlassian e Medium. Também decidimos sobre os requisitos funcionais e não funcionais que o nosso site apresentará. Utilizamos como inspiração o blog trybe.
+ Nesta parte do documento apresentamos nossas três personas, seus quadros de empatia e a proposta de valor que fazem parte do processo de design thinking do trabalho. As ferramentas utilizadas para a realização desta parte foram o Miro, this person does not exist e entrevistas para definição das personas. Além disso criamos as histórias de usuários do projeto baseado nos sites "Atlassian" e "Medium". Também decidimos sobre os requisitos funcionais e não funcionais que o nosso site apresentará. Utilizamos como inspiração o blog "trybe".
 
 
 
@@ -287,6 +287,8 @@ Lucas Alkmim: Projeto de Interface, Especificações do projeto.<br>
 
 ## Controle de Versão
 
+O controle foi feito pelo GIT
+
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
@@ -407,5 +409,8 @@ Lucas Alkmim: Projeto de Interface, Especificações do projeto.<br>
 > no desenvolvimento do trabalho.
 > 
 > **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+> - [https://blog.betrybe.com/tecnologia/requisitos-nao-funcionais/](https://blog.betrybe.com/tecnologia/requisitos-nao-funcionais/)
+> - [https://medium.com/@brunofeitosa/como-criar-uma-boa-historia-de-usu%C3%A1rio-3a7b6cf7d38](https://medium.com/@brunofeitosa/como-criar-uma-boa-historia-de-usu%C3%A1rio-3a7b6cf7d38)
+> - [https://www.atlassian.com/br/agile/project-management/user-stories](https://www.atlassian.com/br/agile/project-management/user-stories)
+> - [https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+> - [https://www.atlassian.com/br/agile/project-management/user-stories](https://www.atlassian.com/br/agile/project-management/user-stories)

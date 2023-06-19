@@ -12,7 +12,7 @@ O nosso projeto visa idosos que necessitam de ajuda em tarefas díaras. Faremos 
 ## Professores responsáveis
 
 * Ilo Amy Sadanha Rivero
-* Leonardo 
+* Leonardo Vilela Cardoso
 
 ## Instruções de utilização
 
