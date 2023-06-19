@@ -261,6 +261,7 @@ Visando um site mais acessivel para idosos, colocamos ferramentas mais intuitiva
 
 Nosso grupo se reunia todas as sextas-feiras, pela ferramenta "Discord", para definir as tarefas que seriam realizadas, por cada um, durante a semana. Nas sexta-feiras seguintes, apresentavamos os trabalhsos feitos, em que opinavamos a respeito do serviço de cada um, apresentando todos os pontos positivos e negativos, assim, o ciclo se repetia. Ademais, também nas sextas-feiras, durante as reuniões, a equipe entrava nos ambientes de trabalho "Miro", "Canva" e "Marvel" para a realização do processo de Desing Thinking e para o mapeamento dos Wireframes.
 
+
 ## Divisão de Papéis
 
 Daniela Nacur: Contexto do Projeto, Metodologia.<br>
