@@ -12,7 +12,7 @@ Ciências da Computação - PUC Minas Coreu
 Os membros do grupo sao:<br>
 -Lucas Alkmim Barros<br>
 -Daniela Santos Nacur<br>
--Livia Camara Xavier hello world<br>
+-Livia Camara Xavier<br>
 -Erick Toshio Scarpelli Yamada
 
 
