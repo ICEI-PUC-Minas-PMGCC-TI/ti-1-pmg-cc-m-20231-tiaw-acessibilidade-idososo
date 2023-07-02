@@ -350,7 +350,7 @@ Usaremos ferramentass HTML, CSS e JS para deixar o nosso site mais organizado e 
 O cliente, navegando pelas nossas páginas web (HTML, CSSS e JS), por meio do site que será hospedado no Heroku, terá os dados salvos no nosso local storage. Inicialmente esses dados serão obtidos ao cadastro do cliente, entrentanto, os dados também serão utilizados em páginas como a do calendário, chat, minha conta, etc.
 > 
 > 
-> ![Exemplo de Arquitetura](images/arquiteturaSolucaao.png)
+> ![Exemplo de Arquitetura](images/arquitetura.png)
 
 
 # Avaliação da Aplicação
