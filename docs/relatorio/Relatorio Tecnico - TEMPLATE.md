@@ -358,9 +358,8 @@ O cliente, navegando pelas nossas páginas web (HTML, CSSS e JS), por meio do si
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+> ![Exemplo de Avalicao](images/Ava)
+
 
 ## Plano de Testes
 
@@ -401,12 +400,12 @@ O cliente, navegando pelas nossas páginas web (HTML, CSSS e JS), por meio do si
 [Formato ABNT](https://www.atlassian.com/br/agile/project-management/user-stories)
 [Formato ABNT](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
 > **Links Úteis**:
-> - [https://blog.betrybe.com/tecnologia/requisitos-nao-funcionais/](https://blog.betrybe.com/tecnologia/requisitos-nao-funcionais/)
-> - [https://medium.com/@brunofeitosa/como-criar-uma-boa-historia-de-usu%C3%A1rio-3a7b6cf7d38](https://medium.com/@brunofeitosa/como-criar-uma-boa-historia-de-usu%C3%A1rio-3a7b6cf7d38)
-> - [https://www.atlassian.com/br/agile/project-management/user-stories](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [https://www.atlassian.com/br/agile/project-management/user-stories](https://www.atlassian.com/br/agile/project-management/user-stories)
+> - Design para idosos: https://www.smashingmagazine.com/2019/02/designing-digital-interfaces-senior-users/
+> - Acessibilidade na web para idosos: https://www.w3.org/WAI/older-users/Overview.html
+> - Conteúdo adequado para idosos: https://www.nngroup.com/articles/designing-for-seniors/
+> - Local Storage: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+> - Acessibilidade: https://www.w3.org/WAI/standards-guidelines/wcag/.
+
+
+
