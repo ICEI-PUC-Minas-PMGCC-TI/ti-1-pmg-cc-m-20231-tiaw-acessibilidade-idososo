@@ -358,22 +358,16 @@ O cliente, navegando pelas nossas páginas web (HTML, CSSS e JS), por meio do si
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> ![Exemplo de Avalicao](images/Ava)
+> ![Exemplo de Avalicao](images/ava1.jpeg)
+> ![Exemplo de Avalicao](images/ava2.jpeg)
+> ![Exemplo de Avalicao](images/ava3.jpeg)
+> ![Exemplo de Avalicao](images/ava4.jpeg)
 
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os usuários avaliaram as páginas de Login/Cadastro, avaliação, busca e calendário. O grupo de usuário foram desde idosos (majoritariamente), até jovens estudantes da computação. Eles fizeram isso testando diretamente as funcionalidades que estavam hospedadas na netlify.
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 
 ## Ferramentas de Testes (Opcional)
 
@@ -387,12 +381,8 @@ O cliente, navegando pelas nossas páginas web (HTML, CSSS e JS), por meio do si
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Por meio dos testes propostos para os nossos clientes, identificamos alguns problemas lógicos no local storage, os quais ja foram corrigidos. Além disso conseguimos otimizar o site, aumentando as fontes das palavras (a fim de facilitar a leitura para os idosos), e mudando algumas cores (com o objetivo de aumentar o contraste e facilitar aa navegação). Ainda pretendemos deixar o site mais intuitivo e mais organizado, para que um idoso nãp apresente dúvidas na hora do uso. Ademais, mantemos alguns aspectos que foram bem avaliados, como a facilidade de uso do calendário.
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
 
 
 # Referências
