@@ -330,6 +330,29 @@ O controle foi feito pelo GIT
 ## Tecnologias Utilizadas
 
 Usaremos ferramentass HTML, CSS e JS para deixar o nosso site mais organizado e responisvo. As ferramentas Miro, Canva, Marvel e VScode vão nos ajudar a realizar isso.
+Flow map:
+> ![](images/flowmap2.png)
+> Página principal:
+> ![](images/principal.png)
+> Sobre nós:
+> ![](images/sobrenos.png)
+> > ![](images/login.png)
+> ![](images/cadastro.png)
+> ![](images/cadastro trab.png)
+> ![](images/minha conta.png)
+> ![](images/chat.png)
+> ![](images/busca.png)
+> ![](images/chat interno.png)
+> ![](images/calendario.png)
+
+
+
+
+
+
+
+
+
 
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
