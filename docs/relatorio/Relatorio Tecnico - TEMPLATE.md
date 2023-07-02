@@ -336,13 +336,13 @@ Flow map:
 > ![](images/principal.png)
 > Sobre nós:
 > ![](images/sobrenos.png)
-> \nLogin e cadastros:
+> Login e cadastros:
 > > ![](images/login.png)
 > ![](images/cadastro.png)
 > ![](images/cadastrotrab.jpg)
 > > Minha conta:
 > ![](images/minhaconta.png)
-> > \nchat e busca por trabalhadores:
+> chat e busca por trabalhadores:
 > ![](images/chat.png)
 > ![](images/busca.png)
 > ![](images/chatinterno.jpg)
