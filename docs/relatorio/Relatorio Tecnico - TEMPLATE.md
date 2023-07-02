@@ -327,11 +327,10 @@ O controle foi feito pelo GIT
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Usaremos ferramentass HTML, CSS e JS para deixar o nosso site mais organizado e responisvo. As ferramentas Miro, Canva, Marvel e VScode vão nos ajudar a realizar isso.
+
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
@@ -356,8 +355,6 @@ O cliente, navegando pelas nossas páginas web (HTML, CSSS e JS), por meio do si
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > ![Exemplo de Avalicao](images/ava1.jpeg)
 > ![Exemplo de Avalicao](images/ava2.jpeg)
 > ![Exemplo de Avalicao](images/ava3.jpeg)
@@ -371,8 +368,6 @@ Os usuários avaliaram as páginas de Login/Cadastro, avaliação, busca e calen
 
 ## Ferramentas de Testes (Opcional)
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > Comente sobre as ferramentas de testes utilizadas.
 > 
 > **Links Úteis**:
@@ -381,7 +376,7 @@ Os usuários avaliaram as páginas de Login/Cadastro, avaliação, busca e calen
 
 ## Registros de Testes
 
-Por meio dos testes propostos para os nossos clientes, identificamos alguns problemas lógicos no local storage, os quais ja foram corrigidos. Além disso conseguimos otimizar o site, aumentando as fontes das palavras (a fim de facilitar a leitura para os idosos), e mudando algumas cores (com o objetivo de aumentar o contraste e facilitar aa navegação). Ainda pretendemos deixar o site mais intuitivo e mais organizado, para que um idoso nãp apresente dúvidas na hora do uso. Ademais, mantemos alguns aspectos que foram bem avaliados, como a facilidade de uso do calendário.
+Por meio dos testes propostos para os nossos clientes, identificamos alguns problemas lógicos no local storage, os quais ja foram corrigidos. Além disso conseguimos otimizar o site, aumentando as fontes das palavras (a fim de facilitar a leitura para os idosos), e mudando algumas cores (com o objetivo de aumentar o contraste e facilitar a navegação). Ainda pretendemos deixar o site mais rersponsivo, intuitivo e organizado, para que um idoso nãp apresente dúvidas na hora do uso. Ademais, mantemos alguns aspectos que foram bem avaliados, como a facilidade de uso do calendário.
 
 
 
