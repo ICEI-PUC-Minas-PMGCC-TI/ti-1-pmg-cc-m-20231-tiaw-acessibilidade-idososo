@@ -338,11 +338,11 @@ Flow map:
 > ![](images/sobrenos.png)
 > > ![](images/login.png)
 > ![](images/cadastro.png)
-> ![](images/cadastrotrab.png)
+> ![](images/cadastrotrab.jpg)
 > ![](images/minhaconta.png)
 > ![](images/chat.png)
 > ![](images/busca.png)
-> ![](images/chatinterno.png)
+> ![](images/chatinterno.jng)
 > ![](images/calendario.png)
 
 
