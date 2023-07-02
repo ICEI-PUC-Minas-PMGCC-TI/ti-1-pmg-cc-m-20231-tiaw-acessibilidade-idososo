@@ -348,14 +348,10 @@ O controle foi feito pelo GIT
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
+O cliente, navegando pelas nossas páginas web (HTML, CSSS e JS), por meio do site que será hospedado no Heroku, terá os dados salvos no nosso local storage. Inicialmente esses dados serão obtidos ao cadastro do cliente, entrentanto, os dados também serão utilizados em páginas como a do calendário, chat, minh conta, etc.
 > 
-> **Exemplo do diagrama de Arquitetura**:
 > 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+> ![Exemplo de Arquitetura](images/arquiteturaSolucaao.png)
 
 
 # Avaliação da Aplicação
