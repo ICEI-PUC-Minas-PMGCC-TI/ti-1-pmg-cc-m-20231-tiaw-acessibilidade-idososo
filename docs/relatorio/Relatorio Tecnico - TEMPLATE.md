@@ -392,7 +392,7 @@ Os usuários avaliaram as páginas de Login/Cadastro, avaliação, busca e calen
 
 ## Registros de Testes
 
-Por meio dos testes propostos para os nossos clientes, identificamos alguns problemas lógicos no local storage, os quais ja foram corrigidos. Além disso conseguimos otimizar o site, aumentando as fontes das palavras (a fim de facilitar a leitura para os idosos), e mudando algumas cores (com o objetivo de aumentar o contraste e facilitar a navegação). Ainda pretendemos deixar o site mais rersponsivo, intuitivo e organizado, para que um idoso nãp apresente dúvidas na hora do uso. Ademais, mantemos alguns aspectos que foram bem avaliados, como a facilidade de uso do calendário.
+Por meio dos testes propostos para os nossos clientes, identificamos alguns problemas lógicos no local storage, os quais ja foram corrigidos. Além disso conseguimos otimizar o site, aumentando as fontes das palavras (a fim de facilitar a leitura para os idosos), e mudando algumas cores (com o objetivo de aumentar o contraste e facilitar a navegação). Ainda pretendemos deixar o site mais rersponsivo, intuitivo e organizado, para que um idoso não apresente dúvidas na hora do uso. Além disso retiramos a parte de avaliação por estar apresentando alguns problemas, mas há planos de colocá-lo novamente uma vez que esteja funcional. Ademais, mantemos alguns aspectos que foram bem avaliados, como a facilidade de uso do calendário.
 
 
 
