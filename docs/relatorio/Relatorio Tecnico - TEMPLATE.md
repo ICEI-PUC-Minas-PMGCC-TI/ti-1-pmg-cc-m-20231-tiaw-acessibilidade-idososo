@@ -281,7 +281,7 @@ Lucas Alkmim: Projeto de Interface, Especificações do projeto.<br>
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  [https://miro.com/app/board/uXjVMU67v40=/](https://miro.com/app/board/uXjVMU67v40=/) | 
 |Repositório de código | GitHub | [https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-tiaw-acessibilidade-idososo](https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-tiaw-acessibilidade-idososo) | 
-|Hospedagem do site | Netlify |  [https://XXXXXXX.herokuapp.com](https://friendly-syrniki-235d73.netlify.app/) | 
+|Hospedagem do site | Netlify |  [https://friendly-syrniki-235d73.netlify.app/](https://friendly-syrniki-235d73.netlify.app/) | 
 |Protótipo Interativo | MavelApp ou Figma | [https://marvelapp.com/prototype/882c0fc](https://marvelapp.com/prototype/882c0fc) | 
 
 
